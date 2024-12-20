@@ -1,0 +1,36 @@
+body{
+
+}
+.hero-section{
+    background-color:white !important;
+}
+.icons-section{
+    min-height: 500px;
+    background-color: #073759 !important;
+}
+i{
+    font-size: 60px; 
+  }ss
+h2{
+    font-family: "Peddana", serif; 
+    font-size: 65px;
+}
+.quote{
+    font-family: "Arima", serif;
+    font-size: 19px;
+}
+h1{
+    font-family: "Peddana", serif; 
+    font-size: 55px;
+    color: white;
+}
+.red-bg{
+    background-color: #ac2d29 !important;
+}
+.tan-bg{
+    background-color: rgb(241, 213, 177) !important;
+    min-height: 3px;
+}
+.video{
+    max-width: 700px;
+}
