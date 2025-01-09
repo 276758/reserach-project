@@ -46,7 +46,7 @@ h1{
     background-color: #073759 !important;
     color: white;
 }
-.tab-content, #home-tab-pane, .table,{
+.tab-content, #home-tab-pane, .table{
     color:white;           
 }
 .nav-link{
